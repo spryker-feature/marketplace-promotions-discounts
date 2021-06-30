@@ -1,22 +1,22 @@
 {
-  "name": "spryker-feature/marketplace-promotions-discounts",
-  "description": "Marketplace Promotions & Discounts [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/discount-merchant-sales-order": "^0.1.0",
-    "spryker/discount-merchant-sales-order-gui": "^0.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/marketplace-promotions-discounts",
+    "description": "Marketplace Promotions & Discounts [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/discount-merchant-sales-order": "^0.2.0",
+        "spryker/discount-merchant-sales-order-gui": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-order-management": "Recommended feature dependency.",
+        "spryker-feature/promotions-discounts": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/marketplace-order-management": "Recommended feature dependency.",
-    "spryker-feature/promotions-discounts": "Recommended feature dependency."
-  }
 }
