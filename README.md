@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Promotions & Discounts
 
-
+With the Marketplace Promotions and Discounts feature, the discounts are correctly applied to the merchant orders.
 
 ## Installation
 
