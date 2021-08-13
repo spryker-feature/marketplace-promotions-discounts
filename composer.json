@@ -7,12 +7,18 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
+        "spryker-shop/cart-code-widget": "^1.4.0",
+        "spryker-shop/discount-promotion-widget": "^3.3.0",
+        "spryker-shop/discount-widget": "^1.8.0",
+        "spryker/cart-code": "^1.2.0",
+        "spryker/discount": "^9.10.0",
         "spryker/discount-merchant-sales-order": "^0.2.0",
-        "spryker/discount-merchant-sales-order-gui": "^0.1.0"
+        "spryker/discount-merchant-sales-order-gui": "^0.1.0",
+        "spryker/discount-promotion": "^4.2.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
