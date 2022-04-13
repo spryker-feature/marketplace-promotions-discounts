@@ -8,7 +8,7 @@
     "require": {
         "php": ">=7.4",
         "spryker-shop/cart-code-widget": "^1.4.0",
-        "spryker-shop/discount-promotion-widget": "^3.3.0",
+        "spryker-shop/discount-promotion-widget": "^3.5.0",
         "spryker-shop/discount-widget": "^1.8.0",
         "spryker/cart-code": "^1.2.0",
         "spryker/discount": "^9.25.0",
