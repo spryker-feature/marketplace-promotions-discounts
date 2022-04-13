@@ -14,7 +14,7 @@
         "spryker/discount": "^9.25.0",
         "spryker/discount-merchant-sales-order": "^1.0.0",
         "spryker/discount-merchant-sales-order-gui": "^1.0.0",
-        "spryker/discount-promotion": "^4.2.0"
+        "spryker/discount-promotion": "^4.6.0"
     },
     "extra": {
         "branch-alias": {
