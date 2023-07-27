@@ -2,6 +2,8 @@
 
 With the Marketplace Promotions and Discounts feature, the discounts are correctly applied to the merchant orders.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/discount-management/202307.0/marketplace/marketplace-promotions-discounts-feature-overview.html)
+
 ## Installation
 
 ```
