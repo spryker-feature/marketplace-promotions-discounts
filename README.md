@@ -15,3 +15,7 @@ composer require spryker-feature/marketplace-promotions-discounts
 - [spryker-feature/promotions-discounts](https://github.com/spryker-feature/promotions-discounts)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [MerchantDiscountConnector ^1.0.0](https://github.com/spryker/merchant-discount-connector) (Connector)
+- [ProductOfferDiscountConnector ^1.0.0](https://github.com/spryker/product-offer-discount-connector) (Connector)
